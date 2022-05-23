@@ -21,4 +21,6 @@
 
 ![chrome_A8aJNIc3gD](https://user-images.githubusercontent.com/95994543/169792256-7d6ab62c-f733-4195-8004-994616b263e4.png)
 
+ 5. Find all the information about each film 
+ 
 

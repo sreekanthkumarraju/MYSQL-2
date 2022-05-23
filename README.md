@@ -33,4 +33,6 @@
 Using the right constraints, find the information we need from the Movies table for each task below.
 
   1. Find the movie with a row id of 6 
+  
+  ![chrome_cKVvMevtf4](https://user-images.githubusercontent.com/95994543/169793579-57bd650c-1585-41ff-a4db-c4ca26fffdcb.png)
 

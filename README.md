@@ -40,3 +40,6 @@ Using the right constraints, find the information we need from the Movies table 
 
   ![chrome_NbGFFyjYY9](https://user-images.githubusercontent.com/95994543/169794655-8065ce76-e632-478e-b3bb-77a165481c50.png)
 
+  3. Find the movies not released in the years between 2000 and 2010 
+  
+  

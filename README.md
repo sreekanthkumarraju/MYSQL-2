@@ -25,3 +25,12 @@
  
 ![chrome_RY4a2CliN2](https://user-images.githubusercontent.com/95994543/169792802-cfc370aa-2e7e-437f-b07f-496613392893.png)
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ Exercise - 02
+ ---------------
+ 
+Using the right constraints, find the information we need from the Movies table for each task below.
+
+  1. Find the movie with a row id of 6 
+

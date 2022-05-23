@@ -9,6 +9,9 @@
   
 ![chrome_ipG8K2h59y](https://user-images.githubusercontent.com/95994543/169789767-df87f583-ba8b-4b51-aed0-5a2ecc154302.png)
 
-  2.Find the director of each film 
+  2. Find the director of each film 
 
 ![chrome_dbRicHxmC7](https://user-images.githubusercontent.com/95994543/169790837-444606d8-b351-4888-a546-4f0a4ef92720.png)
+
+ 3 Find the title and director of each film
+

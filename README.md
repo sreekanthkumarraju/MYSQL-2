@@ -18,3 +18,5 @@
 ![chrome_ghB7cpDHkV](https://user-images.githubusercontent.com/95994543/169791370-c98f4dff-177d-435b-8851-7e882f62171f.png)
 
  4. Find the title and year of each film
+
+![chrome_J2kK0B6C2e](https://user-images.githubusercontent.com/95994543/169791809-1cd3eb1f-9349-4050-841d-f6519f6d9c04.png)

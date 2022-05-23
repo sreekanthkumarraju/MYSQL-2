@@ -15,3 +15,4 @@
 
  3 Find the title and director of each film
 
+![chrome_ghB7cpDHkV](https://user-images.githubusercontent.com/95994543/169791370-c98f4dff-177d-435b-8851-7e882f62171f.png)

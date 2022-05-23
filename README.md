@@ -44,3 +44,7 @@ Using the right constraints, find the information we need from the Movies table 
   
   ![chrome_a38KmKsvRP](https://user-images.githubusercontent.com/95994543/169795407-c1ae3428-3da2-458a-86be-2349ce7689d2.png)
   
+  4 . Find the first 5 Pixar movies and their release year
+  
+  
+  

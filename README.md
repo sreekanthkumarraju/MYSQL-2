@@ -62,3 +62,4 @@ Using the right constraints, find the information we need from the Movies table 
 
   2 .Find all the movies directed by John Lasseter
   
+![chrome_njiwHWLgeZ](https://user-images.githubusercontent.com/95994543/170170875-bc31baa3-c06a-44e1-869f-7475f0c68dce.png)

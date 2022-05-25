@@ -79,6 +79,9 @@ Using the right constraints, find the information we need from the Movies table 
   Exercise -04
   ------------
   
+![chrome_GYV7HkzarI](https://user-images.githubusercontent.com/95994543/170177198-06ea60d2-c4b4-4608-a57a-f3738c9bedae.png)
+![chrome_wp1xTOBxqf](https://user-images.githubusercontent.com/95994543/170177248-d0c6870f-00c1-4db1-aa28-f5688f6f88b0.png)
+  
   1. List all directors of Pixar movies (alphabetically), without duplicates
   
 ![chrome_Fnng26DPdA](https://user-images.githubusercontent.com/95994543/170176216-a578a301-e7fc-4c15-b28e-791533f347f5.png)

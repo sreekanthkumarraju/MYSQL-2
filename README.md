@@ -66,3 +66,7 @@ Using the right constraints, find the information we need from the Movies table 
 
   3. Find all the movies (and director) not directed by John Lasseter
  
+ ![chrome_tS3YztJSNg](https://user-images.githubusercontent.com/95994543/170171071-d16d1054-3b1c-413f-bc2b-cea4f1994b80.png)
+ 
+  4. Find all the WALL-* movies
+  

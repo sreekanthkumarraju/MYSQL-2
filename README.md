@@ -160,8 +160,15 @@ Exercise -06
   
   1.Find the list of all buildings that have employees 
    
-   
+![chrome_rSlNGSsQQV](https://user-images.githubusercontent.com/95994543/170224359-33e9d3a7-17b2-49f6-ba65-447ae66c0893.png)
+
+
+
   
   2.Find the list of all buildings and their capacity
   
+![chrome_NPY16iARP5](https://user-images.githubusercontent.com/95994543/170224565-74838f33-a84d-4c68-8238-3e5527e344fb.png)
+
   3.List all buildings and the distinct employee roles in each building (including empty buildings)
+  
+![chrome_9URiZjGEai](https://user-images.githubusercontent.com/95994543/170225113-ce13fdb1-bb68-427f-85eb-242dc57457f3.png)

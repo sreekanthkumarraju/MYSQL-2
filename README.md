@@ -71,3 +71,5 @@ Using the right constraints, find the information we need from the Movies table 
   4. Find all the WALL-* movies
   
 ![chrome_XmPUO77qMc](https://user-images.githubusercontent.com/95994543/170171369-2ab671be-403e-4423-aa63-361112004f3e.png)
+
+![chrome_3qGJ3FqSC1](https://user-images.githubusercontent.com/95994543/170171601-1e63dd23-bd77-4bda-b18f-4da550ba4d3c.png)

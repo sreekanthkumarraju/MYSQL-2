@@ -80,5 +80,9 @@ Using the right constraints, find the information we need from the Movies table 
   ------------
   
   1. List all directors of Pixar movies (alphabetically), without duplicates
-
   
+![chrome_Fnng26DPdA](https://user-images.githubusercontent.com/95994543/170176216-a578a301-e7fc-4c15-b28e-791533f347f5.png)
+
+ 2.List the last four Pixar movies released (ordered from most recent to least)
+  
+

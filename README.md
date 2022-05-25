@@ -85,4 +85,10 @@ Using the right constraints, find the information we need from the Movies table 
 
  2.List the last four Pixar movies released (ordered from most recent to least)
   
+![chrome_e5M1kIgXcR](https://user-images.githubusercontent.com/95994543/170176439-cae63288-9aef-4745-9e7d-471dbdc4a60b.png)
 
+ 3. List the first five Pixar movies sorted alphabetically
+ 
+ 
+ 
+ 4. List the next five Pixar movies sorted alphabetically

@@ -50,3 +50,12 @@ Using the right constraints, find the information we need from the Movies table 
   
   
 ![chrome_4hNZFuVbd5](https://user-images.githubusercontent.com/95994543/169802138-b71eead0-5baf-40da-b7fd-f67206f17594.png)
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+  Exercise -03
+  ------------
+  
+   1 . Find all the Toy Story movies 
+   
+   

@@ -100,3 +100,22 @@ Using the right constraints, find the information we need from the Movies table 
 
 ![chrome_HT3wzv1Scf](https://user-images.githubusercontent.com/95994543/170176995-497cee02-d1de-4dc4-b838-b76960a4e020.png)
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Review -01
+----------
+
+![chrome_OnFhUseiTI](https://user-images.githubusercontent.com/95994543/170178858-6f7db793-0c4f-40ac-a05a-279186ca45b2.png)
+
+![chrome_WEn0zevSG4](https://user-images.githubusercontent.com/95994543/170178918-5b3a2f04-8f41-43d3-9ab2-3776ce14f6fe.png)
+
+  1.  List all the Canadian cities and their populations
+
+  
+  2.  Order all the cities in the United States by their latitude from north to south
+
+  3.  List all the cities west of Chicago, ordered from west to east
+
+  4. List the two largest cities in Mexico (by population)
+
+  5. List the third and fourth largest cities (by population) in the United States and their population

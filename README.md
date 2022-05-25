@@ -154,3 +154,14 @@ Exercise -06
 ![chrome_tvhmHzU5iP](https://user-images.githubusercontent.com/95994543/170222314-c7e597b5-4985-4190-ae42-f2febc69baa9.png)
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+   Exrecise -07
+  --------------
+  
+  1.Find the list of all buildings that have employees 
+   
+   
+  
+  2.Find the list of all buildings and their capacity
+  
+  3.List all buildings and the distinct employee roles in each building (including empty buildings)

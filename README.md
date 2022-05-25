@@ -89,6 +89,9 @@ Using the right constraints, find the information we need from the Movies table 
 
  3. List the first five Pixar movies sorted alphabetically
  
- 
+ ![chrome_LSQwR8JktN](https://user-images.githubusercontent.com/95994543/170176719-c256e5b1-eb85-46a3-8c25-09685546640f.png)
  
  4. List the next five Pixar movies sorted alphabetically
+
+![chrome_aa7B7wGzcY](https://user-images.githubusercontent.com/95994543/170176777-6f724bf7-5b18-468f-8433-982725c6ab67.png)
+

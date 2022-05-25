@@ -114,6 +114,8 @@ Review -01
 ![chrome_RrW4qSPb7D](https://user-images.githubusercontent.com/95994543/170179362-7521b927-ec81-411d-9674-12dc1c0f64b4.png)
   
   2.  Order all the cities in the United States by their latitude from north to south
+ 
+![chrome_g7IDVlUbTX](https://user-images.githubusercontent.com/95994543/170179573-fc334d55-bc0b-4bee-a7ae-7505cdeaa333.png)
 
   3.  List all the cities west of Chicago, ordered from west to east
 

@@ -59,3 +59,6 @@ Using the right constraints, find the information we need from the Movies table 
    1 . Find all the Toy Story movies 
    
 ![chrome_6kM4scLSWk](https://user-images.githubusercontent.com/95994543/170170225-ab015a0e-547b-4ba7-9921-81266b4c1920.png)
+
+  2 .Find all the movies directed by John Lasseter
+  

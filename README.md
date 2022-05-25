@@ -137,4 +137,5 @@ Exercise -06
 ------------
 
 ![chrome_i1UI60c8Xm](https://user-images.githubusercontent.com/95994543/170219639-5719b541-fa13-4613-a383-4f6a2ba60340.png)
+![chrome_7k462oFJJ3](https://user-images.githubusercontent.com/95994543/170219973-3548fc8b-b64c-4812-8ca4-a22f664788cd.png)
 

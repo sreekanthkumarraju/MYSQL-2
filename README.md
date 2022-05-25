@@ -141,6 +141,14 @@ Exercise -06
 
 1.Find the domestic and international sales for each movie 
 
+![chrome_Y2jiLrfo3k](https://user-images.githubusercontent.com/95994543/170220625-f73c15c9-9f83-4dd0-800e-2270f647ff60.png)
+
 2.Show the sales numbers for each movie that did better internationally rather than domestically
 
+![chrome_IhAioN11M0](https://user-images.githubusercontent.com/95994543/170221316-4ab2ef94-2817-4de7-9d56-b3932c978ed5.png)
+
 3.List all the movies by their ratings in descending order
+
+![chrome_SUrtpbaYlI](https://user-images.githubusercontent.com/95994543/170221832-9d977af6-2c42-4a65-878f-8e35eebf14ec.png)
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------

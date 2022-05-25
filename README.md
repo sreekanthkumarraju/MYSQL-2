@@ -151,4 +151,6 @@ Exercise -06
 
 ![chrome_SUrtpbaYlI](https://user-images.githubusercontent.com/95994543/170221832-9d977af6-2c42-4a65-878f-8e35eebf14ec.png)
 
+![chrome_tvhmHzU5iP](https://user-images.githubusercontent.com/95994543/170222314-c7e597b5-4985-4190-ae42-f2febc69baa9.png)
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------

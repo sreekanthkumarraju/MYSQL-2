@@ -119,6 +119,8 @@ Review -01
 
   3.  List all the cities west of Chicago, ordered from west to east
 
+![chrome_a0GCodooA4](https://user-images.githubusercontent.com/95994543/170179680-0021f3f1-a691-4114-8cf0-0c85fc243a17.png)
+
   4. List the two largest cities in Mexico (by population)
 
   5. List the third and fourth largest cities (by population) in the United States and their population

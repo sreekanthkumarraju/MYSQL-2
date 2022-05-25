@@ -110,7 +110,8 @@ Review -01
 ![chrome_WEn0zevSG4](https://user-images.githubusercontent.com/95994543/170178918-5b3a2f04-8f41-43d3-9ab2-3776ce14f6fe.png)
 
   1.  List all the Canadian cities and their populations
-
+ 
+![chrome_RrW4qSPb7D](https://user-images.githubusercontent.com/95994543/170179362-7521b927-ec81-411d-9674-12dc1c0f64b4.png)
   
   2.  Order all the cities in the United States by their latitude from north to south
 

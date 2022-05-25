@@ -158,6 +158,9 @@ Exercise -06
    Exrecise -07
   --------------
   
+![chrome_hWeR77NQ2v](https://user-images.githubusercontent.com/95994543/170225612-526387f0-11c8-4a67-bc95-f28f87188d5a.png)
+![chrome_Vwb8XyxqUB](https://user-images.githubusercontent.com/95994543/170225736-93625064-2cd2-4c0c-8ced-d30c58fe79ce.png)
+  
   1.Find the list of all buildings that have employees 
    
 ![chrome_rSlNGSsQQV](https://user-images.githubusercontent.com/95994543/170224359-33e9d3a7-17b2-49f6-ba65-447ae66c0893.png)

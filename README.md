@@ -175,3 +175,5 @@ Exercise -06
   3.List all buildings and the distinct employee roles in each building (including empty buildings)
   
 ![chrome_9URiZjGEai](https://user-images.githubusercontent.com/95994543/170225113-ce13fdb1-bb68-427f-85eb-242dc57457f3.png)
+
+![chrome_9QEIwar9Wk](https://user-images.githubusercontent.com/95994543/170226067-d062baaa-2d66-4d3e-9815-5bab5d9f3753.png)

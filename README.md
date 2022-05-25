@@ -136,4 +136,5 @@ Review -01
 Exercise -06
 ------------
 
+![chrome_i1UI60c8Xm](https://user-images.githubusercontent.com/95994543/170219639-5719b541-fa13-4613-a383-4f6a2ba60340.png)
 

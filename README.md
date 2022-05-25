@@ -95,3 +95,5 @@ Using the right constraints, find the information we need from the Movies table 
 
 ![chrome_aa7B7wGzcY](https://user-images.githubusercontent.com/95994543/170176777-6f724bf7-5b18-468f-8433-982725c6ab67.png)
 
+![chrome_HT3wzv1Scf](https://user-images.githubusercontent.com/95994543/170176995-497cee02-d1de-4dc4-b838-b76960a4e020.png)
+

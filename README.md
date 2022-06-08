@@ -188,3 +188,7 @@ Exercise -06
     1.Find the name and role of all employees who have not been assigned to a building
     
 ![chrome_9NXortJmi8](https://user-images.githubusercontent.com/95994543/172551831-59a986eb-16b5-40d6-9ef6-d6571fd5751f.png)
+
+    2.Find the names of the buildings that hold no employees ✓
+   
+![chrome_jqMe59mmhS](https://user-images.githubusercontent.com/95994543/172552391-a04a7c86-e9e2-42b0-a578-00d483bc5883.png)   

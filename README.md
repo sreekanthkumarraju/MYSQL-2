@@ -200,3 +200,12 @@ Exercise -06
    Exercise -09
    ------------
    
+![chrome_xMq3ToABtX](https://user-images.githubusercontent.com/95994543/172553675-cc3c576f-9c70-4105-b002-6e6441a1513f.png)
+
+  1. List all movies and their combined sales in millions of dollars
+  
+![chrome_1KRpoJkG3T](https://user-images.githubusercontent.com/95994543/172553747-fb1b674f-8439-499e-a19b-f40f713e79d4.png)   
+
+ 2. List all movies and their ratings in percent
+ 
+ 3. List all movies that were released on even number years.

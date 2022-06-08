@@ -192,3 +192,11 @@ Exercise -06
     2.Find the names of the buildings that hold no employees ✓
    
 ![chrome_jqMe59mmhS](https://user-images.githubusercontent.com/95994543/172552391-a04a7c86-e9e2-42b0-a578-00d483bc5883.png)   
+
+![chrome_AwxLiBfifm](https://user-images.githubusercontent.com/95994543/172552716-cbd3ef4c-f52c-46c6-95ce-132d57b0ebff.png)
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+   Exercise -09
+   ------------
+   

@@ -155,7 +155,7 @@ Exercise -06
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-   Exrecise -07
+   Exercise -07
   --------------
   
 ![chrome_hWeR77NQ2v](https://user-images.githubusercontent.com/95994543/170225612-526387f0-11c8-4a67-bc95-f28f87188d5a.png)
@@ -177,3 +177,12 @@ Exercise -06
 ![chrome_9URiZjGEai](https://user-images.githubusercontent.com/95994543/170225113-ce13fdb1-bb68-427f-85eb-242dc57457f3.png)
 
 ![chrome_9QEIwar9Wk](https://user-images.githubusercontent.com/95994543/170226067-d062baaa-2d66-4d3e-9815-5bab5d9f3753.png)
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+   Exercise -08
+   ------------
+
+![chrome_HJR6Y2GyEq](https://user-images.githubusercontent.com/95994543/172551127-fd8cd053-79dc-4fa4-ba2d-e6181ed5d281.png)
+   
+    1.Find the name and role of all employees who have not been assigned to a building

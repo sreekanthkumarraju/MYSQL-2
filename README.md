@@ -213,3 +213,7 @@ Exercise -06
  3. List all movies that were released on even number years.
  
 ![chrome_aYNLzOcXkR](https://user-images.githubusercontent.com/95994543/172555675-4b0051ab-57d9-4724-b9df-c1bcaa046215.png) 
+
+![chrome_EKJOgauKuO](https://user-images.githubusercontent.com/95994543/172556021-b1bf2af7-56ef-49a7-80db-ccdf267927aa.png)
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------

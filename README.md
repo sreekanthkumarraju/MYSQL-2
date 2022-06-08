@@ -208,4 +208,8 @@ Exercise -06
 
  2. List all movies and their ratings in percent
  
+![chrome_VtXYLfhkRo](https://user-images.githubusercontent.com/95994543/172555662-dad393ef-d74e-432a-aaca-ff6d06657fdf.png)
+
  3. List all movies that were released on even number years.
+ 
+![chrome_aYNLzOcXkR](https://user-images.githubusercontent.com/95994543/172555675-4b0051ab-57d9-4724-b9df-c1bcaa046215.png) 

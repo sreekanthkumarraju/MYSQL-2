@@ -238,3 +238,24 @@ Exercise -06
 ![chrome_XBOF5TdmH8](https://user-images.githubusercontent.com/95994543/172559014-ab61ccf9-42c6-4cea-8ff0-ea6c1ff3073a.png)
   
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+  Exercise -11
+  ------------
+  
+![chrome_UUxjryorF1](https://user-images.githubusercontent.com/95994543/172560920-724452dd-d60d-41d6-93e0-cb546d3a38d3.png)
+
+1.Find the number of Artists in the studio (without a HAVING clause)
+
+![chrome_Q5WpzmZtt3](https://user-images.githubusercontent.com/95994543/172560941-37c387e6-e4e8-40e6-8707-ee65e462f153.png)
+
+2.Find the number of Employees of each role in the studio
+
+![chrome_Oatb1ZTqSi](https://user-images.githubusercontent.com/95994543/172560965-0f7c5c49-5d30-4dad-8821-fc11bc906198.png)
+
+3.Find the total number of years employed by all Engineers
+
+![chrome_Se7IIrDITm](https://user-images.githubusercontent.com/95994543/172560992-df55a8d7-d0fa-4c76-bd9f-276f7f77a886.png)
+
+![chrome_C8WLEMlRH3](https://user-images.githubusercontent.com/95994543/172561026-b0866e76-4c2a-4d93-be81-6e113f9a92ea.png)
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------

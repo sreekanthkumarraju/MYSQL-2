@@ -186,3 +186,5 @@ Exercise -06
 ![chrome_HJR6Y2GyEq](https://user-images.githubusercontent.com/95994543/172551127-fd8cd053-79dc-4fa4-ba2d-e6181ed5d281.png)
    
     1.Find the name and role of all employees who have not been assigned to a building
+    
+![chrome_9NXortJmi8](https://user-images.githubusercontent.com/95994543/172551831-59a986eb-16b5-40d6-9ef6-d6571fd5751f.png)

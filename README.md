@@ -216,4 +216,23 @@ Exercise -06
 
 ![chrome_EKJOgauKuO](https://user-images.githubusercontent.com/95994543/172556021-b1bf2af7-56ef-49a7-80db-ccdf267927aa.png)
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+  Exercise -10
+  ------------
+  
+![chrome_JDKNR5Gl7f](https://user-images.githubusercontent.com/95994543/172558256-53157605-016a-44de-8dc4-0daab8db9aa6.png)
+
+1.Find the longest time that an employee has been at the studio 
+
+![chrome_UwZ1t2XiR0](https://user-images.githubusercontent.com/95994543/172558283-c6ec5f7d-aeed-49c4-932d-d83ed2bc7326.png)
+
+2.For each role, find the average number of years employed by employees in that role
+
+![chrome_ZCe6IUXYxq](https://user-images.githubusercontent.com/95994543/172558312-71ff7b4a-ebae-4088-9bea-bbc68f098927.png)
+
+3.Find the total number of employee years worked in each building 
+
+![chrome_IHX2rwovlJ](https://user-images.githubusercontent.com/95994543/172558357-961c4d2f-fe7f-4f79-8de4-3d22b62511eb.png) 
+  
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------

@@ -234,5 +234,7 @@ Exercise -06
 3.Find the total number of employee years worked in each building 
 
 ![chrome_IHX2rwovlJ](https://user-images.githubusercontent.com/95994543/172558357-961c4d2f-fe7f-4f79-8de4-3d22b62511eb.png) 
+
+![chrome_XBOF5TdmH8](https://user-images.githubusercontent.com/95994543/172559014-ab61ccf9-42c6-4cea-8ff0-ea6c1ff3073a.png)
   
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
